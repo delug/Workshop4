@@ -28,7 +28,7 @@ Before coming to the workshop, please ensure that you have the following softwar
 3) Git      (https://git-scm.com/downloads)
 4) PyTorch  (https://pytorch.org/)
 5) Numpy    (`conda install numpy`)
-
+6) Torchsummary   (`pip install torchsummary`)
 # Feedback
 
 Deep Learning at UGA is a club that began as a small organization and is rapidly expanding to service as many people as possible.
