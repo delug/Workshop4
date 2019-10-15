@@ -36,4 +36,4 @@ is of the highest possible quality, but that requires help from you! If you've g
 take the survey below to share your feedback with us. We go through every single response and work to meet your needs. Please fill
 out the survey in the link below!
 
-https://tinyurl.com/y39b87uy
+https://forms.gle/yfVWJhssyR9AwoUAA
